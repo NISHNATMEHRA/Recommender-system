@@ -17,7 +17,7 @@ Personalized Recommendations: By analyzing the textual features of movies and co
 # dataset_1
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
 # dataset_2
-datahttps://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
 # Conclusion:
 
