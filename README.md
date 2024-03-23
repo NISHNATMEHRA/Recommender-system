@@ -1,5 +1,5 @@
 # Recommender-system
-It utilizes collaborative filtering techniques and natural language processing (NLP) to analyze repositories and user behavior, providing personalized recommendations.
+The TMDB Movie Recommender System leverages advanced natural language processing (NLP) techniques along with preprocessing, cleaning, and CountVectorizer to recommend movies to users based on textual features extracted from movie metadata. It combines content-based filtering with vectorization of textual data to provide personalized movie recommendations tailored to individual user preferences.
 
 # Key Features:
 
